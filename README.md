@@ -10,7 +10,7 @@ Tested with Temurin 17.0.1, newer versions should work as well.
 
 Apply the plugin to `javac` with `javac -cp kaffee-0.0.1-SNAPSHOT.jar -Xplugin:Kaffee <your compilation target>`.
 
-Available translations are placed in the [`KaffeePlugin.java`](https://github.com/zlataovce/kaffee/tree/master/src/main/java/me/kcra/kaffee/KaffeePlugin.java#L20) file.
+Available translations are placed in the [`KaffeePlugin.java`](https://github.com/zlataovce/kaffee/tree/master/src/main/java/me/kcra/kaffee/KaffeePlugin.java#L28) file.
 
 ```
 öffentlich klasse Example {
